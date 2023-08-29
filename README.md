@@ -7,6 +7,9 @@ Works Cited:
 In this exercise, we were given several codes in the Starter Data packet that we were expected to use. Per instructor Brett Barnes, citations are not required for starter codes given by edX Boot Camps LLC. As it is optional, I have included a citation for the starter code below. I have also included a citation as I worked directly with My Instructor and TA on how to filter by lonigtude and latitude in question three in the NoSQL_analysis file.
 
 edX Boot Camps LLC (2023) NoSQL_analysis_starter.ipynb (Version 1.0) [source code]. Published by edX Boot Camps LLC 
+
 edX Boot Camps LLC (2023)  NoSQL_setup_starter.ipynb (Version 1.0) [source code]. Published by edX Boot Camps LLC
+
 Barnes, B.,  NoSQL_analysis.ipynb (Version 1.0) [np.ravel]. August 28th, 2023
+
 Qi, A.,  NoSQL_analysis.ipynb (Version 1.0) [np.ravel]. August 28th, 2023
